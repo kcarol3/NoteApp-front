@@ -2,10 +2,6 @@
 
 Jest to aplikacja do notatek napisana na potrzeby projektu zaliczeniowego na studia z przedmiotu szkielety programistyczne.
 
-#  Aplikacja do notatek 
-
-Jest to aplikacja do notatek napisana na potrzeby projektu zaliczeniowego na studia z przedmiotu szkielety programistyczne.
-
 ## Wykorzystane Technologie
 
 Lista technologii i bibliotek użytych w projekcie:
