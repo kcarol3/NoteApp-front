@@ -58,19 +58,22 @@ Opis funkcjonalności
 ![Opis obrazu](https://github.com/kcarol3/NoteApp-front/blob/master/screens/screen1.png)
 > *Strona logowania lub rejestracji*
 
-
+<br/><br/>
 
 ![Opis innego obrazu](https://github.com/kcarol3/NoteApp-front/blob/master/screens/screen2.png)
 > *Strona domowa*
 
+<br/><br/>
 
 ![Opis innego obrazu](https://github.com/kcarol3/NoteApp-front/blob/master/screens/screen3.png)
 > *Dodanie nowej notatki*
 
+<br/><br/>
 
 ![Opis innego obrazu](https://github.com/kcarol3/NoteApp-front/blob/master/screens/screen4.png)
 > *Podgląd notatek pogrupowanych pod względem pilności*
 
+<br/><br/>
 
 ![Opis innego obrazu](https://github.com/kcarol3/NoteApp-front/blob/master/screens/screen5.png)
 > *Edycja lub usuwanie notatek*
