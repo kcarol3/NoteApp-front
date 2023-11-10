@@ -53,30 +53,32 @@ Lista technologii i bibliotek użytych w projekcie:
 
 Opis funkcjonalności
 
-## Zrzuty ekranu
-
-![Opis obrazu](https://github.com/kcarol3/NoteApp-front/blob/master/screens/screen1.png)
 > *Strona logowania lub rejestracji*
+![Opis obrazu](https://github.com/kcarol3/NoteApp-front/blob/master/screens/screen1.png)
 
 <br/><br/>
 
-![Opis innego obrazu](https://github.com/kcarol3/NoteApp-front/blob/master/screens/screen2.png)
 > *Strona domowa*
+![Opis innego obrazu](https://github.com/kcarol3/NoteApp-front/blob/master/screens/screen2.png)
+
 
 <br/><br/>
 
-![Opis innego obrazu](https://github.com/kcarol3/NoteApp-front/blob/master/screens/screen3.png)
 > *Dodanie nowej notatki*
+![Opis innego obrazu](https://github.com/kcarol3/NoteApp-front/blob/master/screens/screen3.png)
+
 
 <br/><br/>
 
-![Opis innego obrazu](https://github.com/kcarol3/NoteApp-front/blob/master/screens/screen4.png)
 > *Podgląd notatek pogrupowanych pod względem pilności*
+![Opis innego obrazu](https://github.com/kcarol3/NoteApp-front/blob/master/screens/screen4.png)
+
 
 <br/><br/>
 
-![Opis innego obrazu](https://github.com/kcarol3/NoteApp-front/blob/master/screens/screen5.png)
 > *Edycja lub usuwanie notatek*
+![Opis innego obrazu](https://github.com/kcarol3/NoteApp-front/blob/master/screens/screen5.png)
+
 
 ## Autor
 
